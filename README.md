@@ -1,7 +1,7 @@
 # Basics
 This branch implements the below mentioned data structures and algorithms:
 
-#:Data Structures:#
+##Data Structures
 
 1. Stack
 2. Queue
@@ -10,7 +10,7 @@ This branch implements the below mentioned data structures and algorithms:
 5. LinkList - Doubly
 6. LinkList - Circular
 
-#:Algorithms:#
+##Algorithms
 
 1. Linear Search
 2. Binary Search
